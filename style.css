@@ -63,6 +63,9 @@ body {
 
 #equal {
     grid-row: span 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #833ecc;
 }
 
